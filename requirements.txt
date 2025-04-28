@@ -1,9 +1,0 @@
-langchain-core
-langchain-google-genai
-chromadb
-langchain-chroma
-google-adk
-dotenv
-google.generativeai
-requests
-bs4
